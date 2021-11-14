@@ -1,0 +1,2 @@
+num = ['153', 23, 'ABCD', 54.5, True, '153', 'ABCD', '153']
+print(num.count('153'))
