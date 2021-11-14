@@ -5,4 +5,4 @@ def even_odd(num):
 		print('Odd number')
 
 number = int(input('Enter a number:'))
-print(even_odd(number))
+even_odd(number)
